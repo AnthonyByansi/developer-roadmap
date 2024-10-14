@@ -29,7 +29,7 @@
     "date-fns": "^2.28.0",
     "focus-visible": "^5.2.0",
     "framer-motion": "^5.5.5",
-    "next": "^12.0.7",
+    "next": "^14.2.10",
     "prism-themes": "^1.9.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
